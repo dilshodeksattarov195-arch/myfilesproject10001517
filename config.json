@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercecrypt",
+        "uuid": 9309829,
+        "checksum": "36bl1l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
